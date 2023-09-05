@@ -1,0 +1,6 @@
+psycopg2==2.9.5
+asyncio==3.4.3
+configparser==5.2.0
+aiofile=3.8.1
+aiogram==3.0.0
+pillow==9.4.0
